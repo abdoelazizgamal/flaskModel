@@ -3,4 +3,11 @@
 
 
 
+
+#Install the virtualenv package ===>    
+pip install virtualenv
+
+
+
+
 #command to install dependencies ===>  pip install -r requirements.txt
