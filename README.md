@@ -4,7 +4,7 @@
 
 
 
-#Install the virtualenv package ===>    pip install virtualenv
+#Install the virtualenv package ===>   https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/26/python-virtual-env/
 
 
 
