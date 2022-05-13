@@ -4,8 +4,7 @@
 
 
 
-#Install the virtualenv package ===>    
-pip install virtualenv
+#Install the virtualenv package ===>    pip install virtualenv
 
 
 
